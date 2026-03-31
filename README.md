@@ -1,3 +1,4 @@
+![cheap-agents](cheap-agents.jpg)
 # cheap-agents
 
 **A growing suite of practical autonomous AI optimization agents.**
@@ -40,7 +41,7 @@ All agents in this suite share the same core principles:
 1. Go to the individual agent folder (e.g. `cheapflight-agent` or `cheaphotel-agent`)
 2. Copy the entire content of `SYSTEM_PROMPT.md`
 3. Paste it as the **system prompt** or custom instructions in your preferred LLM (Grok, Claude, ChatGPT, Gemini, etc.)
-4. Simply describe your needs — the agent will automatically begin Phase 1 intake and guide you step by step.
+4. Simply describe your needs, the agent will automatically begin Phase 1 intake and guide you step by step.
 
 **Example for CheapHotel Agent:**
 
